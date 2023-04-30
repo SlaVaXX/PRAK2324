@@ -1,0 +1,15 @@
+D:\Stud\PRAK2324\PRAK2324\bin\Debug\net7.0\PRAK2324.exe
+D:\Stud\PRAK2324\PRAK2324\bin\Debug\net7.0\PRAK2324.deps.json
+D:\Stud\PRAK2324\PRAK2324\bin\Debug\net7.0\PRAK2324.runtimeconfig.json
+D:\Stud\PRAK2324\PRAK2324\bin\Debug\net7.0\PRAK2324.dll
+D:\Stud\PRAK2324\PRAK2324\bin\Debug\net7.0\PRAK2324.pdb
+D:\Stud\PRAK2324\PRAK2324\obj\Debug\net7.0\PRAK2324.csproj.AssemblyReference.cache
+D:\Stud\PRAK2324\PRAK2324\obj\Debug\net7.0\PRAK2324.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stud\PRAK2324\PRAK2324\obj\Debug\net7.0\PRAK2324.AssemblyInfoInputs.cache
+D:\Stud\PRAK2324\PRAK2324\obj\Debug\net7.0\PRAK2324.AssemblyInfo.cs
+D:\Stud\PRAK2324\PRAK2324\obj\Debug\net7.0\PRAK2324.csproj.CoreCompileInputs.cache
+D:\Stud\PRAK2324\PRAK2324\obj\Debug\net7.0\PRAK2324.dll
+D:\Stud\PRAK2324\PRAK2324\obj\Debug\net7.0\refint\PRAK2324.dll
+D:\Stud\PRAK2324\PRAK2324\obj\Debug\net7.0\PRAK2324.pdb
+D:\Stud\PRAK2324\PRAK2324\obj\Debug\net7.0\PRAK2324.genruntimeconfig.cache
+D:\Stud\PRAK2324\PRAK2324\obj\Debug\net7.0\ref\PRAK2324.dll
