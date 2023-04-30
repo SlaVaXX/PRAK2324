@@ -11,7 +11,7 @@
             string MainFigure = "";
             for (int i = 0; ;)
             {
-                Console.WriteLine("\nВведіть доступну команду:\n(new - ініціалізувати фігуру)");
+                Console.WriteLine("\nВведіть доступну команду:\n(new - ініціалізувати фігуру)\n(end - завершити виконання програми)");
                 if (i > 0) Console.WriteLine("(area - площа фігури)\n(perimetr - периметр фігури)");
                 Temp = Console.ReadLine().ToLower();
 
@@ -75,6 +75,10 @@
                 else if (Temp == "clear")
                 {
                     Console.Clear();
+                }
+                else if(Temp == "end")
+                {
+                    break;
                 }
             }//end for
         }
